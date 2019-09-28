@@ -150,11 +150,10 @@ FONT-FAMILY: WebDings; POSITION: relative; TEXT-ALIGN: right; Z-INDEX: 100
   </tr>
   <tr> 
     <td> 
-      <p><font face="Arial, Helvetica, sans-serif" size="2">To create your account, 
-        we'll need some basic information about you. This information will be 
-        used to send reservation confirmation emails, mail tickets when needed 
-        and contact you if your travel arrangements change. Please fill in the 
-        form completely.</font>
+      <p><font face="Arial, Helvetica, sans-serif" size="2">In order to be successful in DevOps
+	  you must be open-minded and resourceful! This is certanley an interesting world, but you'll mostly find yourself blazing new trails in order to get shit done.
+		so good luch with it!
+		hopefully i'll start here and get a perfect score!.</font>
 
     </td>
   </tr>
