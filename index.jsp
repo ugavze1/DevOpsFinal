@@ -153,7 +153,9 @@ FONT-FAMILY: WebDings; POSITION: relative; TEXT-ALIGN: right; Z-INDEX: 100
       <p><font face="Arial, Helvetica, sans-serif" size="2">In order to be successful in DevOps
 	  you must be open-minded and resourceful! This is certanley an interesting world, but you'll mostly find yourself blazing new trails in order to get shit done.
 		so good luch with it!
-		hopefully i'll start here and get a perfect score!.</font>
+		hopefully i'll start here and get a perfect score!
+		Testing commit and deployment #4!!! - 6/10/19
+		.</font>
 
     </td>
   </tr>
