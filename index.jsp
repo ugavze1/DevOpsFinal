@@ -154,7 +154,8 @@ FONT-FAMILY: WebDings; POSITION: relative; TEXT-ALIGN: right; Z-INDEX: 100
 	  you must be open-minded and resourceful! This is certanley an interesting world, but you'll mostly find yourself blazing new trails in order to get shit done.
 		so good luch with it!
 		********hopefully i'll start here and get a perfect score**************
-		check commit with deployment</font>
+		check commit with deployment #2
+		</font>
 
     </td>
   </tr>
